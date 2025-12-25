@@ -20,24 +20,16 @@ I specialize in taking ideas from **prototype to deployment**, with a strong emp
 ## Tech Stack
 
 **AI / ML**
-- OpenAI APIs
-- Hugging Face
-- LangChain
-- LlamaIndex
+- OpenAI APIs, Hugging Face, LangChain, LlamaIndex
 
 **Backend**
-- Python
-- Node.js
-- FastAPI
+- Python, Node.js, FastAPI
 
 **Data**
-- PostgreSQL
-- Vector databases (FAISS, Pinecone-like architectures)
+- PostgreSQL, Vector databases (FAISS, Pinecone-like architectures)
 
 **Infrastructure**
-- AWS
-- Docker
-- CI/CD
+- AWS, Docker, CI/CD
 
 ---
 
